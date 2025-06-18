@@ -114,6 +114,21 @@ height: 20px;
 cursor: pointer;
 }
 
+.label {
+    font-size: 20px;
+}
+
+.barra{
+background-color: var(--fundo-senha);
+height: 30px;
+width: 100%;
+}
+
+.parametro-senha-textos {
+display: flex;
+justify-content: space-between;
+}
+
 .forca{
 height: 30px;
 position: relative;
