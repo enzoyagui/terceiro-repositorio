@@ -108,13 +108,14 @@ body{
     font-size: 24px;
 }
 
-@media screen and (min-width: 768px) {
-    .parametro-coluna__senha{
-        flex-direction: row;
-    }
-}
 .checkbox{
 width: 20px;
 height: 20px;
 cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+    .parametro-coluna__senha{
+        flex-direction: row;
+    }
 }
